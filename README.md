@@ -15,14 +15,14 @@ P.S : You can fire up Google Assistant app on your phone and say "Talk to Just W
 ## ⚛ Features
 - Find where to stream your favourite movies and tv shows in an instant. 
 - No more logging into each of netflix, Prime Video et al to check where a movie or tv-show is available.
-- Search by region. Default region: AU (see instructions below to setup your region)
+- Direct, one-shot Invocation for Alexa (Google Home soon) - Eg: "Alexa, ask Just Watch to search for The Matrix"
 
 ## 🛠 Setup your location:
 - This Action speaks out the results (streaming providers) for a given country at a time. 
 - You can also explicitly specify your preferred country for your searches by saying "Set Country" at any time.
 - By default, it auto-detects your country based on your device language (en-US for United States, en-GB for United Kingdom and so on)
 - For Eg: It can only tell you which streaming providers are offering "The Matrix" in United States at a given time. 
-- BUT if your device language is en-US and If you want to know the streaming offers in United Kingdom or Australia (for example), you need to teach the Action your preferred country for searching. Just say "Set Country"
+- BUT, don't worry! if your device language is en-US and If you want to know the streaming offers in United Kingdom or Australia (for example), you can teach the Action your preferred country for searching. Just say "Set Country".
 
 
 ## 🤓 Personalisation Options
