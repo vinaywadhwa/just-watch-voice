@@ -16,7 +16,7 @@ P.S : You can fire up Google Assistant app on your phone and say "Talk to Just W
 - Search by region. Default region: AU (see instructions below to setup your region)
 
 ## 🛠 Setup your location:
-![Just Watch - Set Location | Demo](justwatch_set_location.gif)
+![Just Watch - Set Location | Demo](justwatch_set_country.jpg)
 - This Action speaks out the results (streaming providers) for a given country at a time. 
 - You can also explicitly specify your preferred country for your searches by saying "Set Country" at any time.
 - By default, it auto-detects your country based on your device language (en-US for United States, en-GB for United Kingdom and so on)
@@ -24,8 +24,8 @@ P.S : You can fire up Google Assistant app on your phone and say "Talk to Just W
 - BUT if your device language is en-US and If you want to know the streaming offers in United Kingdom or Australia (for example), you need to teach the Action your preferred country for searching. Just say "Set Country"
 
 ## 🤓 Personalisation Options
-![Just Watch - Set Offer Types | Sample](justwatch_set_location.jpg)
-![Just Watch - Set Price Announcements | Sample](justwatch_set_location.jpg)
+![Just Watch - Set Offer Types | Sample](justwatch_set_offer_types.jpg)
+![Just Watch - Set Price Announcements | Sample](justwatch_set_price_announcements.jpg)
 - Say "Set Country" to search in a country of your choice. By default, the country is auto detected based on your device language.
 - Say "Set Offer Types" to limit search results to one or all of subscription, rental or purchase offers. 
 - Say "Set Price Announcement" to teach me if i should announce the actual prices of rental or purchase offers when you search for something. 
