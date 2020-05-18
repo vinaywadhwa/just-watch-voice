@@ -13,9 +13,11 @@ P.S : You can fire up Google Assistant app on your phone and say "Talk to Just W
 
 
 ## ⚛ Features
-- Find where to stream your favourite movies and tv shows in an instant. 
-- No more logging into each of Netflix, Prime Video et al to check where a movie or tv-show is available.
+- Find where to stream your favourite movies and tv shows in an instant. No more logging into each of Netflix, Prime Video et al to check where a movie or tv-show is available.
 - Direct, one-shot Invocation for Alexa (Google Home soon) - Eg: "Alexa, ask Just Watch to search for The Matrix"
+- Ability to specify your preferred country. 
+- Ability to Limit search results to your preferred offer types (subscription/rent/purchase).
+- Ability to announce prices with offers.
 
 ## 🛠 Setup your location:
 - This Action speaks out the results (streaming providers) for a given country at a time. 
@@ -42,13 +44,14 @@ P.S : You can fire up Google Assistant app on your phone and say "Talk to Just W
 
 ## 👬 Contribution
 
-- Report issues or suggest features here on Github or Reddit.
-- If you feel compelled, I'd love if you spread the word!
+- This skill is powered by (unofficial) JustWatch APIs. Give them a donation.
+- Report issues or suggest features here on Github or on Reddit
+- Rate this skill/action on [Amazon](https://www.amazon.com/dp/B088FJ7W1M) & [Google](https://assistant.google.com/services/a/uid/0000006c8cbb036a).
+- If you feel compelled, I'd love if you spread the word (can share this skill/action's [webpage](https://vinaywadhwa.github.io/just-watch-voice/)
 - Reach out with any feedback ![Twitter Follow](https://img.shields.io/twitter/follow/vinayw?style=social)
 - Buy me a beer [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/vinaywadhwa)
 
 ## 💬 In other news
 - Android Police wrote an [article](https://www.androidpolice.com/2020/05/14/you-can-now-talk-to-justwatch-on-google-assistant/) about this skill/action. 
 - Some great discussions over the initial launch of this skill/action on [/r/googlehome](https://www.reddit.com/r/googlehome/comments/giye6a/i_made_this_alexa_and_googlehome_voice_app_to/) & [/r/alexa](https://www.reddit.com/r/alexa/comments/giyc1s/i_made_this_alexa_and_googlehome_voice_app_to/)
-- This skill is powered by an unofficial JustWatch API.
-- If you are a MAC OS & Alfred app user, you might be interested in [this](https://vinaywadhwa.github.io/justwatch-alfred/) Alfred workflow i made for Just Watch 
+- If you are a MAC OS & Alfred app user, you might be interested in [this](https://vinaywadhwa.github.io/justwatch-alfred/) Alfred workflow i made which does the same thing as this voice skill/action but on your computer.
