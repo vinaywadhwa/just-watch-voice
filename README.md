@@ -24,14 +24,13 @@ P.S : You can fire up Google Assistant app on your phone and say "Talk to Just W
 - For Eg: It can only tell you which streaming providers are offering "The Matrix" in United States at a given time. 
 - BUT if your device language is en-US and If you want to know the streaming offers in United Kingdom or Australia (for example), you need to teach the Action your preferred country for searching. Just say "Set Country"
 
-![Just Watch - Set Location | Demo](justwatch_set_country.jpg)
 
 ## 🤓 Personalisation Options
 - Say "Set Country" to search in a country of your choice. By default, the country is auto detected based on your device language.
 - Say "Set Offer Types" to limit search results to one or all of subscription, rental or purchase offers. 
 - Say "Set Price Announcement" to teach me if i should announce the actual prices of rental or purchase offers when you search for something. 
 - Say "Settings" to hear about all of the available personalisation options.
-
+![Just Watch - Set Location | Demo](justwatch_set_country.jpg)
 ![Just Watch - Set Offer Types | Sample](justwatch_set_offer_types.jpg)
 ![Just Watch - Set Price Announcements | Sample](justwatch_set_price_announcements.jpg)
 
