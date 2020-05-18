@@ -1,9 +1,12 @@
 <head>
-  <link rel="shortcut icon" type="image/png" href="icon.png">
-  <link rel="shortcut icon" sizes="196x196" href="icon.png">
-  <link rel="apple-touch-icon" href="icon.png">
+  <link rel="shortcut icon" type="image/ico" href="favicon.ico">
+  <link rel="shortcut icon" sizes="196x196" href="favicon.ico">
+  <link rel="apple-touch-icon" href="favicon.ico">
 </head>
-
+  <link rel="shortcut icon" type="image/ico" href="favicon.ico">
+  <link rel="shortcut icon" sizes="196x196" href="favicon.ico">
+  <link rel="apple-touch-icon" href="favicon.ico">
+  
 ![Just Watch - Voice | Demo](label.png)
 
 Alexa and GoogleHome Voice 🗣️ App to find WHERE your movies and tv-shows are available for STREAMING 🧐
