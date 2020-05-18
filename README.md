@@ -1,11 +1,7 @@
 <head>
-  <link rel="shortcut icon" type="image/ico" href="favicon.ico">
-  <link rel="shortcut icon" sizes="196x196" href="favicon.ico">
-  <link rel="apple-touch-icon" href="favicon.ico">
+ <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
-  <link rel="shortcut icon" type="image/ico" href="favicon.ico">
-  <link rel="shortcut icon" sizes="196x196" href="favicon.ico">
-  <link rel="apple-touch-icon" href="favicon.ico">
+ <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   
 ![Just Watch - Voice | Demo](label.png)
 
