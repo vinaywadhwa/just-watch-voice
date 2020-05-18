@@ -1,8 +1,8 @@
-<head>
+
   <link rel="icon" type="image/png" href="icon.png">
   <link rel="icon" sizes="196x196" href="icon.png">
   <link rel="apple-touch-icon" href="icon.png">
-</head>
+
 
 ![Just Watch - Voice | Demo](label.png)
 
