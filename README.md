@@ -47,6 +47,8 @@ P.S : You can fire up Google Assistant app on your phone and say "Talk to Just W
 - Reach out with any feedback ![Twitter Follow](https://img.shields.io/twitter/follow/vinayw?style=social)
 - Buy me a beer [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/vinaywadhwa)
 
-## 💬 Want to know more ?
+## 💬 In other news
 - Android Police wrote an [article](https://www.androidpolice.com/2020/05/14/you-can-now-talk-to-justwatch-on-google-assistant/) about this skill/action. 
 - Some great discussions about this skill/action on [/r/googlehome](https://www.reddit.com/r/googlehome/comments/giye6a/i_made_this_alexa_and_googlehome_voice_app_to/) & [/r/alexa](https://www.reddit.com/r/alexa/comments/giyc1s/i_made_this_alexa_and_googlehome_voice_app_to/)
+- This skill is powered by an unofficial JustWatch API.
+- If you are a MAC OS & Alfred app user, you might be interested in [this](https://vinaywadhwa.github.io/justwatch-alfred/) Alfred workflow i made for Just Watch 
