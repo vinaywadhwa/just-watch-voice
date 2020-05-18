@@ -14,7 +14,7 @@ P.S : You can fire up Google Assistant app on your phone and say "Talk to Just W
 
 ## ⚛ Features
 - Find where to stream your favourite movies and tv shows in an instant. 
-- No more logging into each of netflix, Prime Video et al to check where a movie or tv-show is available.
+- No more logging into each of Netflix, Prime Video et al to check where a movie or tv-show is available.
 - Direct, one-shot Invocation for Alexa (Google Home soon) - Eg: "Alexa, ask Just Watch to search for The Matrix"
 
 ## 🛠 Setup your location:
