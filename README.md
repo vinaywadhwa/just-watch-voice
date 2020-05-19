@@ -2,6 +2,8 @@
 
 Alexa and GoogleHome Voice 🗣️ App to find WHERE your movies and tv-shows are available for STREAMING 🧐
 
+< Based on an unofficial Justwatch API > 
+
 ## ⬇️ Install
 
 - Amazon Alexa/Echo devices - [Download/Enable](https://www.amazon.com/dp/B088FJ7W1M)
