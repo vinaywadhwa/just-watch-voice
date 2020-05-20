@@ -49,7 +49,7 @@ P.S : You can fire up Google Assistant app on your phone and say "Talk to Just W
 - This skill is powered by (unofficial) JustWatch APIs. Give them a donation.
 - Report issues or suggest features on [Github](https://github.com/vinaywadhwa/just-watch-voice/issues) or on [Reddit](https://www.reddit.com/r/googlehome/comments/gm3if1/just_watch_updated_international_edition_find/)
 - Rate this skill/action on [Amazon](https://www.amazon.com/dp/B088FJ7W1M) & [Google](https://assistant.google.com/services/a/uid/0000006c8cbb036a).
-- If you feel compelled, I'd love if you spread the word (can share this skill/action's [webpage](https://vinaywadhwa.github.io/just-watch-voice/)
+- If you feel compelled, I'd love if you spread the word (can share this skill/action's [webpage](https://vinaywadhwa.github.io/just-watch-voice/))
 - Reach out with any feedback ![Twitter Follow](https://img.shields.io/twitter/follow/vinayw?style=social)
 - Buy me a beer [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/vinaywadhwa)
 
